@@ -4,8 +4,11 @@ date: 2023-04-09T23:00:00+00:00
 comment: true
 ---
 
-<i>After I graduated in 2020, I was asked to provide an article for the Clare Review. I recently found a copy online while looking for something else. I reproduce the following from said</I> [online version](https://stories.clare.cam.ac.uk/student-voice/)<i>, which also features the excellent Jonty Townson and some nostalgic photos.</I>
+{{< quote info>}}
+After I graduated in 2020, I was asked to provide an article for the <i?Clare Review</i>. I recently found a copy online while looking for something else. For posterity, I reproduce the following from said [online version](https://stories.clare.cam.ac.uk/student-voice/), which also features the excellent Jonty Townson and some nostalgic photos.
+{{< /quote >}}
 
+![A puntless Cam in the summer of 2020.](/clare2020.jpg)
 
 <h1>Dan Wright (2017)
 
