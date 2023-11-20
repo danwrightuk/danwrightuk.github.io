@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>media on Dan Wright</title>
+    <link>-F/tags/media/</link>
+    <description>Recent content in media on Dan Wright</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 20 Nov 2023 20:20:20 +0000</lastBuildDate><atom:link href="-F/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading List</title>
+      <link>-F/posts/readinglist/</link>
+      <pubDate>Mon, 20 Nov 2023 20:20:20 +0000</pubDate>
+      
+      <guid>-F/posts/readinglist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
