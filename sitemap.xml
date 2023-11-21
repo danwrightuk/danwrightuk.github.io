@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://danwright.org.uk/</loc>
     <lastmod>2023-11-20T20:20:20+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://danwright.org.uk/posts/</loc>
     <lastmod>2023-11-20T20:20:20+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/readinglist/</loc>
+    <loc>https://danwright.org.uk/posts/readinglist/</loc>
     <lastmod>2023-11-20T20:20:20+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://danwright.org.uk/categories/</loc>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://danwright.org.uk/contact/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://danwright.org.uk/tags/</loc>
   </url>
 </urlset>
