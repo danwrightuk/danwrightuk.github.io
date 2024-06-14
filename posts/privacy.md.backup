@@ -1,0 +1,45 @@
+---
+title: "Privacy"
+date: 2024-06-14T19:30:00+00:00
+comment: true
+---
+
+In the early 2010s, events like the Snowden leaks made me a younger me very interested in online privacy. But by the turn of the decade, I'd basically given up on the seemingly futile battle for privacy from the powers that be. I stopped paying it much thought, and focused on security instead.
+
+Recently, though, I've relapsed into concern over privacy from Big Tech. Perhaps I have too much time on my hands; perhaps the recent scramble to train generative AI made data protection feel more pressing.
+
+To scratch that itch, I've recently experimented with de-Googling my phone. Google was by far the biggest dependency of my online life, and it's been oddly freeing to disentangle from them. I've also tried to uninstall some other proprietary apps.
+
+To do so, I've switched to free and open source (FOSS) alternatives that are generally speaking more secure, with little to no loss of convenience. I wanted to share some info here to encourage more people to make the jump.
+
+# Guides
+
+There are two really fantastic guides that made it so easy to find quality alternatives:
+
+1. [The New Oil](https://thenewoil.org/en/)
+2. [Privacy Guides](https://www.privacyguides.org/en/)
+
+It seems counterproductive to publicly list exactly which services I use, but I'm happy to recommend things to people who know me personally.
+
+I now pay about £15 a month for core services like cloud storage. That's more than my old Google subscription, but I think it's is a fair trade-off for the gains in terms of privacy and digital security, since FOSS services are not subsidised by surrendering your personal data. 
+
+# Challenges
+
+While the core services I now use on my phone are solidly open source, are some areas where I've decided not to switch.
+
+In some cases, I've been happy to keep closed source apps on my phone because I want to use a specific service (like Duolingo or the Ryanair app). Similarly, it's impossible to replace certain streaming services with anything but piracy, so I've decided I'd rather not.
+
+A slightly different category includes apps for office, maps, or translation. There are FOSS alternatives, but Google's services are so much more powerful that I still want to use them (ideally in privacy-friendly web wrappers). I'd love to see fully-featured open source alternatives one day.
+
+I also lament that there's no open source wallet (replacing Google Pay or Apple Pay). Hopefully, the [Open Wallet Foundation](https://openwallet.foundation/) will lead us to salvation.
+
+Finally, there are Meta platforms I continue to use because all my friends and family do. I'm not sure I see a way through this collective action problem, other than begging people to make a switch. Would you do me the honour?
+
+
+
+
+
+
+
+
+
